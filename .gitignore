@@ -182,5 +182,6 @@ $RECYCLE.BIN/
 
 #Public Folder
 public/
+uploads/
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos,n
